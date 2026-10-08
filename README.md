@@ -1,16 +1,21 @@
-<!-- 🔹 BANNER PRINCIPAL -->
+<div align="center">
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,30:FFBE0B,60:4CC9F0,100:4361EE&height=220&section=header&text=🎮%20Oi,%20eu%20sou%20o%20Nelmario!&fontSize=38&animation=fadeIn&fontAlignY=35" alt="Banner Nelmario" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Nelmario.;Engineer+%7C+Systems+Builder.;Code+with+intention." alt="Typing SVG" />
 </p>
 
-<!-- 🔹 APRESENTAÇÃO ANIMADA — CARREGA SEM FALHA! -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBE0B&center=true&vCenter=true&width=650&height=60&lines=🌟%20Bem-vindo%20à%20minha%20página!;💻%20Desenvolvedor;🐍%20Python%20%7C%20⚙️%20C%20%7C%20☕%20Java;🚀%20Criando%20linha%20por%20linha;✨%20Vamos%20codar%3F" alt="Apresentação animada" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Backend+%26+systems+engineer;Building+CLI+tools+and+APIs;Learning+cloud+infrastructure;Code.+Create.+Solve.+Evolve." alt="Typing SVG" />
 
----
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomena-razafimahandry/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shiro_yukami)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noum.rzdr@gmail.com)
+[![Website](https://img.shields.io/badge/Website-242A2E?style=for-the-badge&logo=githubpages&logoColor=white)](https://shiro-cha.github.io)
+
+</div>
+
+<br/>
 
 ## 🧑‍💻 Sobre Mim — Ficha do Jogador
 
