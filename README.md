@@ -8,17 +8,26 @@
 
 
 
-## 🧑‍💻 Sobre Mim — Ficha do Jogador
+## 🧑‍💻 About Me
 
 <p align="center">
   <!-- Imagem oficial do GitHub — carrega sempre! -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nintendo.svg" width="140" alt="Nintendo" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nintendo.svg" width="140" alt="" />
+    🎓 Hello, I'm Nelmario, a Software Engineering enthusiast passionate about technology and developing solutions through programming.
+
+💻 I am currently honing my skills in software development, programming, and web technologies, always looking to learn something new and put my knowledge into practice through projects.
+
+🚀 My goal is to constantly grow as a developer, build increasingly better projects, and contribute to solutions that make a difference.
+
+📚 Here on my GitHub, you'll find some of my projects, studies, and experiences from my journey in the tech world.
+
+Welcome to my profile! 🚀
 </p>
 ---
 
 ---
 
-## 🛠️ Kit de Habilidades
+## 🛠️ Skill Set
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,18 +40,18 @@
 
 ---
 
-## 📂 Fases / Projetos
+## 📂 Phases / Projects
 
-| 🏆 Fase | 📁 Projeto | 📝 Descrição |
+| 🏆 Phases | 📁 Projects | 📝 Description |
 |:---:|:---|:---|
-| 🐍 | Python | Automações e scripts |
-| 🌐 | Web | Sites e interfaces |
-| ⚙️ | C / Java | Programação e lógica |
-| 🐧 | Linux | Configurações e dicas |
+| 🐍 | Python | Automations and scripts |
+| 🌐 | Web | Websites and interfaces |
+| ⚙️ | C / Java | Programming and logic |
+| 🐧 | Linux | Configurations and tips |
 
 ---
 
-## 📬 Conecte-se
+## 📬 Let´s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nelmario-rodrigues/">
@@ -56,7 +65,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilmariorodrigues56-byte&show_icons=true&theme=tokyonight" />
@@ -66,7 +75,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,50:4CC9F0,100:FFBE0B&height=120&section=footer&text=🏆%20Obrigado%20pela%20visita!&fontSize=26" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361EE,50:4CC9F0,100:FFBE0B&height=120&section=footer&text=🏆%20Othanks%20for%20visiting!&fontSize=26" />
 </p>
 
 <p align="center">
