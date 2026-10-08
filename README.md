@@ -6,16 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Backend+%26+systems+engineer;Building+CLI+tools+and+APIs;Learning+cloud+infrastructure;Code.+Create.+Solve.+Evolve." alt="Typing SVG" />
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomena-razafimahandry/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shiro_yukami)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noum.rzdr@gmail.com)
-[![Website](https://img.shields.io/badge/Website-242A2E?style=for-the-badge&logo=githubpages&logoColor=white)](https://shiro-cha.github.io)
-
-</div>
-
-<br/>
 
 ## 🧑‍💻 Sobre Mim — Ficha do Jogador
 
